@@ -21,11 +21,11 @@ body{
 }
 .left{
     
-    width: 50%;
+    width: 40%;
 }
 
 .right{
-    width: 50%;
+    width: 60%;
     background-color: #FFFFFF;
     
     
@@ -107,7 +107,7 @@ label {
     line-height: 39px;
     border-radius: 8px;
     margin-top: 0.5rem;
-    margin-left: 3.5rem
+    margin-left: 2.5rem
 
 }
 #account {
@@ -137,7 +137,7 @@ label {
     .form {
         display: flex;
         justify-content: center;
-        margin-left: 4.5rem;
+        margin-left: 1.5rem;
     }
     
     
